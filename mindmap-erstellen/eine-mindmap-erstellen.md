@@ -2,7 +2,7 @@ Du hast eine großartige Idee? Viele Aufgaben in unterschiedlichen Bereichen? Or
 
 ![XXXPIXELCHENXXX](https://raw.githubusercontent.com/manfredsteger/zmf/master/mindmap-erstellen/000-grafik-mindmap.png)
 
-[Lernziele](#lernziele)
+[Lernziele](#lernziele) Link funktioniert
 
 ## Was ist eine Mindmap?
 
