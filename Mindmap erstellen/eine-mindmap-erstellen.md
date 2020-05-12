@@ -1,6 +1,6 @@
 Du hast eine großartige Idee? Viele Aufgaben in unterschiedlichen Bereichen? Organisatorisches, das sich immer wieder ändert? Viele Teammeetings und jeder hat etwas zu sagen? Mit einer Mindmap kannst du unterschiedliche Bereiche strukturieren und für andere Personen leichter zugänglich machen. In dieser Anleitung zeigen wir, wie es einfach und kostenlos geht.
 
-![XXXPIXELCHENXXX](https://raw.githubusercontent.com/manfredsteger/zmf/master/Mindmap erstellen/000-grafik-mindmap.png)
+![XXXPIXELCHENXXX](000-grafik-mindmap.png)
 
 ## Was ist eine Mindmap?
 
