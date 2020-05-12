@@ -2,6 +2,8 @@ Du hast eine großartige Idee? Viele Aufgaben in unterschiedlichen Bereichen? Or
 
 ![XXXPIXELCHENXXX](https://github.com/manfredsteger/zmf/blob/master/Mindmap%20erstellen/000-grafik-mindmap.png)
 
+[Lernziele](#lernziele)
+
 ## Was ist eine Mindmap?
 
 > Eine Mindmap ist ein persönliches Werkzeug, dass dir dabei helfen kann, deine Gedanken zu ordnen. Durch bildhafte Darstellung deiner Gedanken entsteht eine Gedankenkarte. Natürlich geht dies auch gemeinsam mit anderen, im Team oder auch mit Kindern.
@@ -22,7 +24,7 @@ Der erste Schritt bei der Planung ist es, das Thema oder den Anwendungszweck fes
 - Die vorhandenen Spielsachen können in Kategorien unterteil werden, z.B. in Baukasten, Malsachen, Eimer, Schaufeln usw.
 - Danach ist nicht Schluss! Die enstandene Landkarte kann dazu genutzt werden, die einzelnen Bereiche oder die gesammelten Punkte miteinander zu verknüpfen. Auf diese Weise werden Verbindungen zwischen vielen Dingen, die einen alltäglich umgeben, und Neues geschaffen. Dieser Überblick wird in einer Mindmap schnell und nachvollziehbar für andere Personen sichtbar.
 
-### Thema überlegen
+### Thema überlegen {#lernziele}
 
 Schritt 1: Überlege dir ein Thema oder einen Bereich, zudem Du eine Mindmap erstellen möchtest.
 
